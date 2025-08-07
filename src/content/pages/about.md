@@ -3,7 +3,9 @@ title: "About Me"
 layout: "../../layouts/BaseLayout.astro"
 ---
 
-## Hello, I’m Mike Nada
+## Hello, I’m Masaya Narita
+
+<img src="/about-me.jpg" alt="Profile photo of Mike Nada" width="160" height="160" style="border-radius: 50%; margin-bottom: 1rem;" />
 
 I’m passionate about smart home technologies and the philosophy of [Calm Technology](https://calmtech.com/).  
 My focus is on creating tools that are minimal yet meaningful—products that quietly support daily life and gradually become beloved through continued use.
@@ -16,7 +18,7 @@ My focus is on creating tools that are minimal yet meaningful—products that qu
 
 ### Current Project: Tac Photo
 
-I’m currently developing **Tac Photo**, a minimal digital photo frame designed around calm interaction.  
+I’m currently developing **Tac Photo**, a minimal digital photo frame designed to enhance pure photography experience.  
 It uses ESP32-S3 with FreeRTOS, a segment LCD to show EXIF metadata, and NFC-based configuration.  
 It’s part of an exploration into tangible, ambient technology that enhances emotion and memory.
 
